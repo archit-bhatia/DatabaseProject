@@ -31,8 +31,10 @@ class xyz:
 
             # Do the work done by the main of DBMSproject.py
 
-            #Destroy current window
+            #Destroy the current window
             root.destroy()
+
+
 
             #Open new window
             newroot = Tk()
